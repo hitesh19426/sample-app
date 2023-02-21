@@ -11,7 +11,7 @@ export default function WelcomePage() {
   }
 
   return <div>
-    <div>Welcome {name}</div>
+    <div>Welcome {name} to my sample website </div>
     <button onClick={handleClick}> Go Back </button>
   </div>;
 }
